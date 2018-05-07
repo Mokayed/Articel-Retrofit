@@ -4,7 +4,7 @@
 
 
 1.Hvad er Retrofit?
-Android article 2
+
 
 Retrofit er en REST-klient til Android og Java by Square. Det gør det relativt nemt at hente og uploade JSON (eller andre strukturerede data) via en REST-baseret webservice. I Retrofit konfigurerer du, hvilken konverter der bruges til dataserialisering. Typisk for JSON bruger du GSon, men du kan tilføje tilpassede konvertere til at behandle XML eller andre protokoller. Retrofit bruger OkHttp biblioteket til HTTP anmodninger.
 
